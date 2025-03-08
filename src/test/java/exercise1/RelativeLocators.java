@@ -51,6 +51,7 @@ public class RelativeLocators {
     @Test
     public void testGetSocialMedia() {
 
+
         List<WebElement> allSocialMedia = driver.findElements(with(By.xpath("//а"))
                 .near(By.cssSelector("div.orangehrm-login-footer-sm")));
 
