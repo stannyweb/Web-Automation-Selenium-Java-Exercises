@@ -16,7 +16,7 @@ import java.time.Duration;
 import java.util.Iterator;
 import java.util.Set;
 
-public class NewWindowManagement {
+public class NewWindowManagementTest {
 
     private WebDriver driver;
 

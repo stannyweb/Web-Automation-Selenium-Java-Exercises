@@ -16,7 +16,7 @@ import java.util.List;
 
 import static org.openqa.selenium.support.locators.RelativeLocator.with;
 
-public class RelativeLocators {
+public class RelativeLocatorsTest {
     private WebDriver driver;
 
 
